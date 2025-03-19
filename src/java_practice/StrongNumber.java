@@ -1,7 +1,7 @@
 package java_practice;
 import java.util.*;
 public class StrongNumber{
-	public static void main(String[] args) {
+	public static void main(String[] args){
 		Scanner sc = new Scanner (System.in);
 		System.out.println("enter num:");
 		int num = sc.nextInt();
