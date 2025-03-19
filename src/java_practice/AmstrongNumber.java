@@ -25,5 +25,4 @@ public class AmstrongNumber {
 				System.out.print("not");
 			}
 		}
-
 }
